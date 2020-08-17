@@ -1,0 +1,1 @@
+module.exports = (...nomes) => nomes.map(n => `Bom dia ${n}!`)

@@ -1,0 +1,1 @@
+// não tenho saco pra estudar progressão aritimetica e geometrica
